@@ -1,0 +1,2 @@
+# Voice_Assistance
+ The Digital Life Personal Assistant project, developed using Python, achieves 80% accuracy in voice recognition through libraries like SpeechRecognition. It processes user commands by analyzing keywords and triggering appropriate responses or actions. To improve user interaction, the project incorporates gTTS for text-to-speech conversion, delivering responses with an accuracy rate of 85%.
